@@ -6,4 +6,5 @@
 # Results
   - 
 # Summary
-![Balanced Random Forest Classifier] (C:\Users\memus\OneDrive\Desktop\Analysis_Project\Module 18 - Machine Learning\Credit_Risk_Analysis)
+![Balanced Random Forest Classifier](https://user-images.githubusercontent.com/108844775/209919646-084b30bd-2c63-4717-9d52-6d933b1c793e.png)
+
